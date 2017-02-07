@@ -1,0 +1,82 @@
+done41 times
+0 40
+Searching for 0: found after1 calls to find() 0 in list
+0 40
+0 20
+0 10
+0 5
+Searching for 1: found after4 calls to find() 2 in list
+0 40
+0 20
+0 10
+0 5
+2 5
+Searching for 2: found after5 calls to find() 3 in list
+0 40
+0 20
+0 10
+0 5
+2 5
+3 5
+4 5
+Searching for 4: Not found after 7 calls to find()
+0 40
+Searching for 102334155: found after1 calls to find() 40 in list
+0 40
+20 40
+30 40
+35 40
+37 40
+38 40
+Searching for 63245986: found after6 calls to find() 39 in list
+0 40
+20 40
+30 40
+35 40
+37 40
+38 40
+39 40
+Searching for 165580141: Not found after 7 calls to find()
+0 40
+0 20
+10 20
+15 20
+15 17
+16 17
+Searching for 1596: Not found after 6 calls to find()
+0 40
+0 20
+10 20
+15 20
+17 20
+Searching for 2584: found after5 calls to find() 18 in list
+0 40
+0 20
+10 20
+15 20
+17 20
+18 20
+19 20
+Searching for 6754: Not found after 7 calls to find()
+0 40
+0 20
+10 20
+15 20
+17 20
+18 20
+Searching for 4181: found after6 calls to find() 19 in list
+0 40
+20 40
+20 30
+20 25
+20 22
+Searching for 10946: found after5 calls to find() 21 in list
+0 40
+20 40
+20 30
+20 25
+20 22
+20 21
+Searching for 10945: Not found after 6 calls to find()
+0 40
+Searching for 6765: found after1 calls to find() 20 in list
